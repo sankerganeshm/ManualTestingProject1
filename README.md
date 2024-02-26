@@ -1,1 +1,1 @@
-# SeliniumAutomationTestingProject1
+# ManualTestingProject1
